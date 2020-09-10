@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects 
-- 💻 Working as SDE-1 in [<img align="left" alt="Altiostar" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F1137109%2FAltiostar_Logo.jpg%3Fp%3Dfacebook&imgrefurl=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fus-companies-airspan-and-altiostar-announce-partnership-to-commercialize-4g--5g-open-virtualized-ran-network-solutions-301028955.html&tbnid=q0hEO86uvZSdSM&vet=12ahUKEwiU2-TSwt7rAhUcB7cAHZWRAFYQMygEegUIARCYAQ..i&docid=oFORUG14fjUjTM&w=1496&h=785&q=altiostar%20logo&ved=2ahUKEwiU2-TSwt7rAhUcB7cAHZWRAFYQMygEegUIARCYAQ" />]
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
