@@ -44,13 +44,5 @@
 ---
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.puneetchawla8.vercel.app/api?username=PuneetChawla8&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [twitter]: https://twitter.com/PunChai_ti
 [linkedin]: https://www.linkedin.com/in/chawla-puneet/
