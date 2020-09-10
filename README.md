@@ -1,7 +1,6 @@
 ### Hi there, I'm Puneet Chawla
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PunChai_ti?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## Hi, I'm Puneet Chawla, a passionate self-taught developer from India.
 
@@ -48,7 +47,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-mu-swart.vercel.app/api?username=PuneetChawla8&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.puneetchawla8.vercel.app/api?username=PuneetChawla8&show_icons=true&hide_border=true" />
 
 </details>
 
