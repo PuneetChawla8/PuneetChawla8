@@ -1,8 +1,4 @@
-### Hi there, I'm Puneet Chawla
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/PunChai_ti?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## Hi, I'm Puneet Chawla, a passionate self-taught developer from India.
+### Hi, I'm Puneet Chawla, a passionate self-taught developer from India.
 
 - 🔭 I’m currently working on face detection project!
 - 🌱 I’m currently learning everything 🤣
