@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on face detection project!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects 
+- 🥅 2021 Goals: Solving HackerRank and leetCode questions
 
 
 ### Spotify Playing 🎧
